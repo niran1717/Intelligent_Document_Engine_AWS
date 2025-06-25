@@ -18,7 +18,7 @@ The IntelliDoc Engine is designed to automate the ingestion, processing, underst
 
 ## 🧱 Architecture Overview
 
-Here’s how the system works, as visualized in the architecture diagram (`./IntelliDoc.png`):
+Here’s how the system works, as visualized in the architecture diagram: ![Architecture Diagram](./IntelliDoc.png)
 
 ### 📥 Ingestion
 
