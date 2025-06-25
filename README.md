@@ -18,7 +18,7 @@ The IntelliDoc Engine is designed to automate the ingestion, processing, underst
 
 ## 🧱 Architecture Overview
 
-Here’s how the system works, as visualized in the architecture diagram (`assets/intellidoc-architecture.png`):
+Here’s how the system works, as visualized in the architecture diagram (`./IntelliDoc.png`):
 
 ### 📥 Ingestion
 
@@ -130,7 +130,7 @@ Here’s how the system works, as visualized in the architecture diagram (`asset
 - ✅ View dashboards in QuickSight
 
 ---
-
+<!--
 ## 📁 Repo Structure
 
 ```
@@ -145,6 +145,7 @@ Here’s how the system works, as visualized in the architecture diagram (`asset
 │   └── intellidoc-architecture.png
 ├── README.md
 ```
+-->
 
 ---
 
